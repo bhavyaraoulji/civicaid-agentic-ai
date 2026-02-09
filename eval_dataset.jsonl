@@ -1,0 +1,10 @@
+{"input":"I am a veteran in new york and my utilities may get shut off tomorrow.","expected_domain":"utilities"}
+{"input":"I want to apply h4b exyension and I have 30 days. What documents should I prepare?","expected_domain":"immigration"}
+{"input":"My landlord gave me a 5-day notice. What do I do today?","expected_domain":"housing"}
+{"input":"I need SNAP/food help and I’m not sure where to start in Missouri.","expected_domain":"food"}
+{"input":"I’m a veteran and need mental health support tonight.","expected_domain":"veterans"}
+{"input":"My work permit expires soon. What are the next steps?","expected_domain":"immigration"}
+{"input":"I need help with rent assistance and I have a court date next week.","expected_domain":"housing"}
+{"input":"I want to apply for VA disability but don’t know eligibility.","expected_domain":"veterans"}
+{"input":"I need to replace lost immigration documents (I-94 / passport).","expected_domain":"immigration"}
+{"input":"My water will be shut off and I have kids at home.","expected_domain":"utilities"}
