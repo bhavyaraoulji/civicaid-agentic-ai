@@ -1,6 +1,3 @@
-Here is a **GitHub-ready README.md** version — clean Markdown formatting exactly how it should appear on GitHub. You can paste this directly into your repo’s **README.md**.
-
----
 
 # CivicAid Agentic AI
 
